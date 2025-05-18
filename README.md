@@ -7,17 +7,17 @@ The Visual Crossing api is described here: https://www.visualcrossing.com/resour
 
 The MCP server can retrieve the following data for a specified location for a date or date range:
 
-temperature
-max temperature
-min temperature
-preciptitation
-solar radiation
-cloud cover
-snow depth
-weather type
-weather conditions
-heat index
-wind chill
+- temperature
+- max temperature
+- min temperature
+- preciptitation
+- solar radiation
+- cloud cover
+- snow depth
+- weather type
+- weather conditions
+- heat index
+- wind chill
 
 First install the requirements:
 
